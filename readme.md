@@ -85,6 +85,8 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 
 * **Jesús Alfonzo** - *Programacion* - [Alfonzzoj](https://github.com/Alfonzzoj)
 * **Cesar Perez**   - *Programacion* - [Cesaraugp](https://github.com/Cesaraugp)
+* **Jose Vivas**    - *Musica y diseño* 
+
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/orgs/Azzocode/people) quíenes han participado en este proyecto. 
 
