@@ -1,6 +1,6 @@
-# Survivor Foreign
+# Survivor Foreign 🎮(nombre experimental)
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Survivor foreign es un video juego de supervivencia 2D del genero estrategia desarrollado en unity para la plataforma PC._
 
 ## Comenzando 🚀
 
@@ -13,9 +13,14 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
-```
-Da un ejemplo
-```
+ 1. .NET SDK
+	* [.NET on Windows ](https://docs.microsoft.com/en-us/dotnet/core/install/windows?tabs=net50)
+	* [.NET on Ubuntu - .NET ](https://docs.microsoft.com/en-us/dotnet/core/install/linux-ubuntu)
+	
+_Para mas información consultar la documentación en [ Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/core/install/) para el sistema operativo que se requiera._
+
+2. Unity 
+	* [Unity](https://unity3d.com/es/get-unity/download)
 
 ### Instalación 🔧
 
@@ -35,41 +40,16 @@ hasta finalizar
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
 ## Despliegue 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
+_Notas adicionales sobre como hacer deploy._
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Unity](https://store.unity.com/es) - Motor de videojuego multiplataforma.
+* [.NET SDK](https://docs.microsoft.com/en-us/dotnet/core/install/) - Usado para compilar/ejecutar la logica en C#.
 
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](#) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 ## Wiki 📖
 
@@ -77,18 +57,15 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 
 ## Versionado 📌
 
-Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+Para todas las versiones disponibles, mira los [tags](https://github.com/Azzocode/Survivor-foreign/tags) en este repositorio.
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+_Aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Jesús Alfonzo** - *Programacion* - [Alfonzzoj](https://github.com/Alfonzzoj)
-* **Cesar Perez**   - *Programacion* - [Cesaraugp](https://github.com/Cesaraugp)
-* **Jose Vivas**    - *Musica y diseño* 
-
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/orgs/Azzocode/people) quíenes han participado en este proyecto. 
+* **Jesús Alfonzo** - *Programación* - [Alfonzzoj](https://github.com/Alfonzzoj)
+* **Cesar Perez**   - *Programación* - [Cesaraugp](https://github.com/Cesaraugp)
+* **Jose Vivas**    - *Musica / diseño / otros* 
 
 ## Licencia 📄
 
@@ -97,7 +74,3 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 ## Expresiones de Gratitud 🎁
 
 * Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
-
