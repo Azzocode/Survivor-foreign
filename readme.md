@@ -24,25 +24,21 @@ _Para mas información consultar la documentación en [ Microsoft Docs](https://
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+_Como tener una copia del proyecto, para pruebas o desarrollo_
 
-_Dí cómo será ese paso_
+1. Clonar el repositorio arro
 
+```bash
+git clone https://github.com/Azzocode/Survivor-foreign.git
 ```
-Da un ejemplo
-```
+2. Abrir la carpeta obtenida en Unity Hub. 
 
-_Y repite_
+_Este instalará las dependencias necesarias para ejecutar el proyecto_
 
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
 ## Despliegue 📦
 
-_Notas adicionales sobre como hacer deploy._
+_Abrir el proyecto atravez del unity hub, implementara las dependencias necesarias._
 
 ## Construido con 🛠️
 
