@@ -20,6 +20,7 @@ public class character2DController : MonoBehaviour
 
     if (Input.GetButtonDown("Jump") && Mathf.Abs(_rigidBody.velocity.y)<0.001f){
         _rigidBody.AddForce(new Vector2(0,JumpForce), ForceMode2D.Impulse);
+        //TODO #3 @Alfonzzoj Revisa mi commit issue
     }
     }
 }
