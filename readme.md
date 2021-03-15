@@ -26,7 +26,7 @@ _Para mas información consultar la documentación en [ Microsoft Docs](https://
 
 _Como tener una copia del proyecto, para pruebas o desarrollo_
 
-1. Clonar el repositorio arro
+1. Clonar el repositorio
 
 ```bash
 git clone https://github.com/Azzocode/Survivor-foreign.git
